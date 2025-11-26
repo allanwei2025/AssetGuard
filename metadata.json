@@ -1,0 +1,7 @@
+{
+  "name": "AssetGuard AI",
+  "description": "一款专业的资产盘点应用，具备条码扫描、照片凭证和AI智能报告摘要功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
